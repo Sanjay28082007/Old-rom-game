@@ -1,0 +1,188 @@
+[
+    {
+        "name": "Iron Sword",
+        "type": "weapon",
+        "damage": 15,
+        "weight": 5.0,
+        "value": 25,
+        "description": "A basic but sturdy sword."
+    },
+    {
+        "name": "Steel Dagger",
+        "type": "weapon",
+        "damage": 10,
+        "weight": 2.0,
+        "value": 15,
+        "description": "Lightweight and fast to strike."
+    },
+    {
+        "name": "Warhammer",
+        "type": "weapon",
+        "damage": 25,
+        "weight": 8.0,
+        "value": 40,
+        "description": "Heavy hammer that deals massive damage."
+    },
+    {
+        "name": "Fire Staff",
+        "type": "weapon",
+        "damage": 22,
+        "weight": 4.0,
+        "value": 50,
+        "description": "Casts fire spells at enemies."
+    },
+    {
+        "name": "Leather Armor",
+        "type": "armor",
+        "defense": 10,
+        "slot": "chest",
+        "weight": 6.0,
+        "value": 20,
+        "description": "Basic protection for adventurers."
+    },
+    {
+        "name": "Iron Helmet",
+        "type": "armor",
+        "defense": 5,
+        "slot": "head",
+        "weight": 2.0,
+        "value": 10,
+        "description": "Protects your head from injury."
+    },
+    {
+        "name": "Steel Shield",
+        "type": "armor",
+        "defense": 12,
+        "slot": "hand",
+        "weight": 7.0,
+        "value": 30,
+        "description": "Can block enemy attacks."
+    },
+    {
+        "name": "Health Potion",
+        "type": "potion",
+        "effect": "heal",
+        "magnitude": 50,
+        "weight": 0.5,
+        "value": 10,
+        "description": "Restores 50 HP when used."
+    },
+    {
+        "name": "Mana Potion",
+        "type": "potion",
+        "effect": "mana",
+        "magnitude": 40,
+        "weight": 0.5,
+        "value": 12,
+        "description": "Restores 40 MP when used."
+    },
+    {
+        "name": "Strength Elixir",
+        "type": "potion",
+        "effect": "buff",
+        "magnitude": 10,
+        "weight": 0.3,
+        "value": 15,
+        "description": "Temporarily increases attack."
+    },
+    {
+        "name": "Key",
+        "type": "special",
+        "use": "unlock",
+        "weight": 0.1,
+        "value": 50,
+        "description": "Opens hidden doors or chests."
+    },
+    {
+        "name": "Ancient Scroll",
+        "type": "quest",
+        "use": "trigger_quest",
+        "weight": 0.2,
+        "value": 100,
+        "description": "Starts a secret side quest."
+    },
+    {
+        "name": "Gold Coins",
+        "type": "currency",
+        "amount": 100,
+        "weight": 0.0,
+        "value": 100,
+        "description": "Used for trading and buying items."
+    },
+    {
+        "name": "Silver Bow",
+        "type": "weapon",
+        "damage": 18,
+        "weight": 3.0,
+        "value": 35,
+        "description": "A finely crafted bow for skilled archers."
+    },
+    {
+        "name": "Battle Axe",
+        "type": "weapon",
+        "damage": 28,
+        "weight": 9.0,
+        "value": 45,
+        "description": "A heavy axe that can split shields."
+    },
+    {
+        "name": "Wizard Robe",
+        "type": "armor",
+        "defense": 8,
+        "slot": "chest",
+        "weight": 2.5,
+        "value": 40,
+        "description": "A robe that boosts magical energy."
+    },
+    {
+        "name": "Dragon Scale Shield",
+        "type": "armor",
+        "defense": 20,
+        "slot": "hand",
+        "weight": 10.0,
+        "value": 120,
+        "description": "A shield made from dragon scales, nearly indestructible."
+    },
+    {
+        "name": "Elixir of Speed",
+        "type": "potion",
+        "effect": "buff",
+        "magnitude": 15,
+        "weight": 0.3,
+        "value": 25,
+        "description": "Temporarily increases movement speed."
+    },
+    {
+        "name": "Poison Vial",
+        "type": "potion",
+        "effect": "damage",
+        "magnitude": 30,
+        "weight": 0.2,
+        "value": 18,
+        "description": "Deals poison damage over time."
+    },
+    {
+        "name": "Crystal Key",
+        "type": "special",
+        "use": "unlock",
+        "weight": 0.1,
+        "value": 80,
+        "description": "Opens magical barriers or rare chests."
+    },
+    {
+        "name": "Royal Decree",
+        "type": "quest",
+        "use": "trigger_quest",
+        "weight": 0.1,
+        "value": 150,
+        "description": "A royal order that starts an important quest."
+    },
+    {
+        "name": "Ruby Gemstone",
+        "type": "currency",
+        "amount": 1,
+        "weight": 0.2,
+        "value": 200,
+        "description": "A rare gem worth a fortune."
+    }
+]
